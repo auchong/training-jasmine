@@ -1,6 +1,9 @@
 # Jasmine Training
 
-This project holds my files for jasmine/karma unit testing training.
+This project holds my files for a jasmine/karma unit testing training.
+
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2
 
 ## Instructions
 1. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `> git clone https://github.com/auchong/training-jasmine.git`
