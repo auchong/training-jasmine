@@ -2,7 +2,7 @@
 
 This project holds my files for a jasmine/karma unit testing training.
 
-https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1 <br/>
 https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-2
 
 ## Instructions
